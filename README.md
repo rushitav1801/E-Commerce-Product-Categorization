@@ -6,6 +6,6 @@ The objective of the notebook is to classify a product into a pre-defined catego
 - Word Vectorization method used : Term Frequency-Inverse Document Frequency (TF-IDF)
 - Algorithms used : XGBoost, Random Forest Classifier, Logistic Regression, K-Nearest Neighbors
 
-Dataset downloaded from : [E-commerce Text classification dataset](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
+Download Dataset from : [E-commerce Text classification dataset](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
 
 Link to Kaggle notebook : [Kaggle Notebook](https://www.kaggle.com/code/rushitav/e-commerce-product-categorization/notebook)
